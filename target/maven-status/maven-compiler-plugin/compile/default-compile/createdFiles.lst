@@ -1,0 +1,6 @@
+com\global\hr\MvcCrudApplication.class
+com\global\hr\Repository\EmployeeRepository.class
+com\global\hr\service\EmployeeService.class
+com\global\hr\controller\EmployeeController.class
+com\global\hr\entities\Employee.class
+com\global\hr\service\EmployeeServiceInterface.class
